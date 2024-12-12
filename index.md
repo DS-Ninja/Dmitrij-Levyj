@@ -1,0 +1,3 @@
+title: Dmitrij Levyj | Data Science Journey
+description: A portfolio and blog showcasing my Data Science projects and learning journey.
+theme: jekyll-theme-cayman # You can change this to other themes like jekyll-theme-minimal, jekyll-theme-slate, etc.
