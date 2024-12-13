@@ -1,3 +1,16 @@
 title: Dmitrij Levyj | Data Science Journey
 description: A portfolio and blog showcasing my Data Science projects and learning journey.
-theme: jekyll-theme-Mediator # You can change this to other themes like jekyll-theme-minimal, jekyll-theme-slate, etc.
+
+# Base URL for your site (for GitHub Pages, it is often "/username/repository-name")
+url: "https://username.github.io/repository-name"  # Replace with your actual URL
+
+# Define the theme
+theme: jekyll-theme-mediator
+
+# Optional: Social links
+social_links:
+  github: "https://github.com/username"  # Add your GitHub profile link
+  linkedin: "https://linkedin.com/in/username"  # Add your LinkedIn profile link
+
+# Set up other options for your site (this is optional and depends on your needs)
+markdown: kramdown
