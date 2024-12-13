@@ -1,21 +1,20 @@
-document.addEventListener("DOMContentLoaded", function () {
-    const texts = [
-        "Data Science Explorer",
-        "Maritime Chief Officer",
-        "Curious with logical thinking",
-        "Dynamic",
-        "Judgemental",
-        "Argumentative",
-        "& Game Enthusiast"
-    ];
+// JavaScript to change the dynamic text
+const dynamicText = document.getElementById('dynamic-text');
+const texts = [
+    "Data Science Explorer",
+    "Maritime Chief Officer", 
+    "Curious with logical thinking",
+    "Dynamic",
+    "Judgemental",
+    "Argumentative",
+    "& Game Enthusiast"
+];
 
-    const textElement = document.getElementById("dynamic-text");
-    let index = 0;
+let textIndex = 0;
 
-    function updateText() {
-        textElement.textContent = texts[index];
-        index = (index + 1) % texts.length;
-    }
+function changeText() {
+    dynamicText.textContent = texts[textIndex];
+    textIndex = (textIndex + 1) % texts.length;
+}
 
-    setInterval(updateText, 3000); // Change text every 3 seconds
-});
+setInterval(changeText, 2000); // Change text every 2 seconds
