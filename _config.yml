@@ -5,4 +5,4 @@ description: A portfolio and blog showcasing my Data Science projects and learni
 url: "https://ds-ninja.github.io/Dmitrij-Levyj/"  # This is your actual URL
 
 # Define the theme
-theme: jekyll-theme-mediator
+theme: jekyll-theme-minimal
