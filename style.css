@@ -1,46 +1,57 @@
-/* Reset some default styles */
+/* Reset default styles */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Body styling */
+/* Body Styles */
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f9;
-    color: #333;
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f9; /* Light background */
+    color: #333; /* Dark text for readability */
+    line-height: 1.6;
 }
 
-/* Header styling */
+/* Header Styles */
 header {
-    background-color: #3498db;
-    padding: 20px;
+    background-color: #2c3e50; /* Dark blue */
+    color: #fff; /* White text */
+    padding: 40px;
     text-align: center;
+    border-bottom: 5px solid #3498db; /* Blue border for separation */
 }
 
-/* Main heading */
+/* Main Heading (h1) */
 header h1 {
-    font-size: 2.5em;
-    color: white;
+    font-size: 3rem;
+    margin-bottom: 10px;
+    letter-spacing: 1px;
 }
 
-/* Subheading styling */
+/* Subheading (h2) */
 header h2 {
-    font-size: 1.5em;
-    color: #f39c12;
+    font-size: 2rem;
+    color: #3498db; /* Blue color for the subheading */
+    margin-top: 10px;
+    font-weight: 300;
 }
 
-/* Style for the dynamic text */
+/* Dynamic Text */
 #dynamic-text {
-    font-weight: bold;
-    font-size: 1.8em;
-    color: #e74c3c;
+    color: red; /* Red color for dynamic text */
+    font-size: 1.5rem;
+    font-style: italic;
+    letter-spacing: 1px;
 }
 
-/* Add some spacing around the body content */
-body {
-    padding: 20px;
-    margin-top: 50px;
-}
+/* Mobile responsiveness */
+@media screen and (max-width: 768px) {
+    header h1 {
+        font-size: 2.5rem;
+    }
 
+    header h2 {
+        font-size: 1.5rem;
+    }
+}
