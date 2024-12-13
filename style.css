@@ -21,6 +21,9 @@ header {
     text-align: center;
     border-bottom: 5px solid #3498db; /* Blue border for separation */
 }
+body {
+    font-family: 'Roboto', sans-serif;
+}
 
 /* Main Heading (h1) */
 header h1 {
