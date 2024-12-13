@@ -1,1 +1,46 @@
+/* Reset some default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+/* Header styling */
+header {
+    background-color: #3498db;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Main heading */
+header h1 {
+    font-size: 2.5em;
+    color: white;
+}
+
+/* Subheading styling */
+header h2 {
+    font-size: 1.5em;
+    color: #f39c12;
+}
+
+/* Style for the dynamic text */
+#dynamic-text {
+    font-weight: bold;
+    font-size: 1.8em;
+    color: #e74c3c;
+}
+
+/* Add some spacing around the body content */
+body {
+    padding: 20px;
+    margin-top: 50px;
+}
 
