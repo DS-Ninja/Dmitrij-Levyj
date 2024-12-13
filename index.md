@@ -1,4 +1,21 @@
-# Welcome to Dmitrij Levyj's Data Science Journey
+---
+layout: none
+title: Home
+---
 
-Hello! I'm Dmitrij, and this is my personal website where I share my progress in Data Science and AI.
-Test
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dmitrij Levyj | Data Science Journey</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Data Science Journey</h1>
+        <h2 id="dynamic-text">Discover More</h2>
+    </header>
+    <script src="script.js"></script>
+</body>
+</html>
