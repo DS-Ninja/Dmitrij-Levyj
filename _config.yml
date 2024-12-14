@@ -1,8 +1,0 @@
-title: Dmitrij Levyj | Data Science Journey
-description: A portfolio and blog showcasing my Data Science projects and learning journey.
-
-# Base URL for your site (for GitHub Pages, it is often "/username/repository-name")
-url: "https://ds-ninja.github.io/Dmitrij-Levyj/"  # This is your actual URL
-
-# Define the theme
-theme: jekyll-theme-minimal
