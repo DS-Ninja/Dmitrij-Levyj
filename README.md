@@ -36,4 +36,4 @@ Here are some of my ongoing Data Science & AI projects:
 Feel free to connect with me!
 
 - 📧 Email: [dmitrij_levyj@icloud.com](mailto:dmitrij_levyj@icloud.com)
-- 🌐 Website: [Dmitrij Levyj | Data Science Journey]([your-website-link](https://dmitrijlevyj.wixsite.com/datascience))
+- 🌐 Website: [Dmitrij Levyj | Data Science Journey](https://dmitrijlevyj.wixsite.com/datascience)
