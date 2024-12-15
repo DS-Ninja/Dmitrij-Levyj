@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am a **Data Science Explorer** passionate about 
 - 💻 I have a background in **small programming projects**, **cybersecurity**, and **PC repair/restoration** as hobbies.
 - 🛳 I work on a **two-month rotation** schedule on the Oil/Chemical tanker, which gives me the opportunity to dive deep into learning during my off time.
 - 📚 I’m studying **Data Science** through **Turing College**, focusing on tools like **Python**, **SQL**, **Pandas**, **NumPy**, **scikit-learn**, **PyTorch**, **Tableau**, and **XGBoost**.
-- 🎮 Outside of data science, I enjoy **gaming**, **cars** , and exploring **new technology**.
+- 🎮 Outside of data science, I enjoy **gaming**, **cars** , and exploring **new technologies**.
 
 ## 📚 My Current Learning Path
 
