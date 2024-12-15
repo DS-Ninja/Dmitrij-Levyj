@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Dmitrij Levyj with Data Science Journey 🚀
+# 👋 Hello, I'm Dmitrij Levyj in Data Science Journey 🚀
 
 Welcome to my GitHub profile! I am a **Data Science Explorer** passionate about learning and applying data science techniques to real-world problems. I am currently focusing on Data Science & AI, aiming to grow my skills and create impactful projects.
 
